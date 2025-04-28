@@ -1,0 +1,9 @@
+*.exe
+*.ilk
+*.pdb
+*.exp 
+*.pch
+*.map
+*.obj
+*.rdbg
+
